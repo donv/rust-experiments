@@ -1,0 +1,10 @@
+[package]
+name = "fib_lib"
+version = "0.1.0"
+authors = ["Uwe Kubosch <uwe@kubosch.no>"]
+
+[lib]
+name = "rust_fib_lib"
+crate-type = ["dylib"] # could be `staticlib` or `dylib` or `rlib`
+
+[dependencies]
