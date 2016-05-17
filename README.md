@@ -1,2 +1,2 @@
 # rust-experiments
-Varies projects exploring Rust
+Various projects exploring Rust
