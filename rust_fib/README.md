@@ -1,7 +1,7 @@
 Rust Fibonacci
 ==============
 
-This project produces a binary that calculates the Fibonacci sequense:
+This project produces a binary that calculates the Fibonacci sequence.
 
 ## Build
 
