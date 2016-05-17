@@ -1,0 +1,6 @@
+[package]
+name = "rust_fib"
+version = "0.1.0"
+authors = ["Uwe Kubosch <uwe@kubosch.no>"]
+
+[dependencies]
