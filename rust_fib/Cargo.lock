@@ -1,0 +1,4 @@
+[root]
+name = "rust_fib"
+version = "0.1.0"
+
